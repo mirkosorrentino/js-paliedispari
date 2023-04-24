@@ -6,3 +6,18 @@
 }
 
 /* OUTPUT */
+.input {
+    text-align: center;
+}
+
+.input div {
+    padding-bottom: 2rem;
+}
+
+#final-message {
+    font-size: 3rem;
+    font-weight: 700;
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
